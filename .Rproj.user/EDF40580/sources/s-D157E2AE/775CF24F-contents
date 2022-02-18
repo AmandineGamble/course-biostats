@@ -1,0 +1,4 @@
+library(rsconnect)
+rsconnect::deployApp('D:/work/teaching/distributions/shinyapp')
+
+setwd('D:/work/teaching/distributions/shinyapp')
